@@ -1,22 +1,19 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Matplotlib: Introduction",
+    "slug": "matplotlib-introduction",
+    "description": "An overview of Matplotlib, a popular plotting library in Python.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "python",
+        "matplotlib",
+        "data-visualization"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "python-packages"
     ],
     "related": [
-        "",
-        ""
     ]
 }
