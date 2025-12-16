@@ -7,8 +7,8 @@ data = np.random.rand(10, 10)
 
 fig1, ax1 = plt.subplots()
 im = ax1.imshow(data, cmap='viridis', aspect='auto')
-ax1.set_xlabel('X axis')
-ax1.set_ylabel('Y axis')
+ax1.set_xlabel('x')
+ax1.set_ylabel('y')
 ax1.set_title('Heat Map')
 fig1.colorbar(im, ax=ax1, label='Value')
 
