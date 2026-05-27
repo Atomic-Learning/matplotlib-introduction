@@ -15,5 +15,7 @@
         "python-packages"
     ],
     "related": [
+        "numpy-introduction",
+        "scipy-introduction"
     ]
 }
